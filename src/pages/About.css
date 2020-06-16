@@ -1,0 +1,30 @@
+.aboutPage {
+  background-color: white;
+  height: 85vh;
+  text-align: center;
+}
+
+.siteInfo {
+  padding: 200px;
+  background-color: grey;
+  color: white;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .aboutPage {
+    height: 150vh;
+  }
+}
+
+@media only screen and (max-width: 520px) {
+  .aboutPage {
+    height: 170vh;
+  }
+}
+@media only screen and (max-width: 380px) {
+  .aboutPage {
+    height: 185vh;
+  }
+}
