@@ -40,9 +40,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Corono Checker][SCREENSHOT](https://gyazo.com/730df21c42f3914513a2082c7718359f)
+1. Home
+<p align="center">
+ <img src="assets/Home.png" />
+</p>
 
+2. Map
+<p align="center">
+ <img src="assets/Map.png" />
+</p>
 
+3. Charts
+<p align="center">
+ <img src="assets/Charts.png" />
+</p>
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * Wanted to make an app relevant to the current time we are liviing in
