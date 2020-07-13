@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Corono Checker][https://gyazo.com/730df21c42f3914513a2082c7718359f]](https://corono-checker.netlify.app/)
+[![Corono Checker][https://gyazo.com/730df21c42f3914513a2082c7718359f]](Screenshot)
 
 
 Here's why:
