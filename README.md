@@ -37,9 +37,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
+## Screenshots
 1. Home
 <p align="center">
  <img src="assets/Home.png" />
@@ -54,8 +52,12 @@
 <p align="center">
  <img src="assets/Charts.png" />
 </p>
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* I feld my time should be focused on creating something amazing. A project that solves a problem and helps others
 * Wanted to make an app relevant to the current time we are liviing in
 
 
@@ -71,7 +73,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting started
+
+- To run the project you will need Git, Node, and npm installed.
 
 
 
@@ -93,7 +97,10 @@ git clone https://github.com/ChrisAs/Corono-Checker.git
 ```sh
 npm install
 ```
-4. Enter your API in `env`
+4. Run `npm start` in your client root folder.
+
+5. Enter your API in `env`
 ```JS
 const API_KEY = 'ENTER YOUR API';
 ```
+
