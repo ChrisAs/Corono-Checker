@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Corono Checker][https://gyazo.com/730df21c42f3914513a2082c7718359f]](https://gyazo.com/730df21c42f3914513a2082c7718359f)
+[![Corono Checker][Screenshot](https://gyazo.com/730df21c42f3914513a2082c7718359f)
 
 
 Here's why:
