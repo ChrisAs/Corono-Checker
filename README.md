@@ -45,6 +45,7 @@
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* Wanted to make an app relevant to the current time we are liviing in
 
 
 
