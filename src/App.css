@@ -59,3 +59,25 @@ Link {
   text-decoration: none;
   margin-top: 10px;
 }
+.menu {
+  display: none;
+}
+@media only screen and (max-width: 800px) {
+  .homeAbout {
+    display: none;
+
+  }
+  .nav-links{
+    justify-content:center;
+  }
+.fill{
+  padding: 10px 7px;
+  justify-content: flex-start;
+}
+}
+@media only screen and (max-width: 500px) {
+
+.fill{
+  font-size: 14px;
+}
+}

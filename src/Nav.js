@@ -2,7 +2,9 @@
 import React from "react";
 import "./App.css";
 import { Link } from "react-router-dom";
+
 function Nav() {
+
   return (
     <nav>
       <Link className="homeAbout" to="/">
@@ -26,7 +28,7 @@ function Nav() {
           <li className="fill">Map</li>
         </Link>
 
-        <Link className="homeAbout" to="/about">
+        <Link  to="/about">
           <li className="fill">About</li>
         </Link>
       </ul>
